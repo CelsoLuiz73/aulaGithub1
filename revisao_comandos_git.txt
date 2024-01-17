@@ -5,3 +5,4 @@ git add <arquivo> -> adiciona na branch do repositório local -> torna o arquivo
 git status -> passa a situação atual do arquivos e pastas do repositório local
 
 git commit -> ele salva o que foi desenvolvido no momento, tornando passível de retornar aquele estado do código.
+Luth também passou por aqui ;) 
